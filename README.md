@@ -19,3 +19,6 @@ Comando: docker run -d --name nginx-dani -p 80:80 -v ~/nginx/dani.test/html:/usr
 
 ## Comprobación de funcionamiento
 ![Imagen de comprobación de funcionamiento](./img/005.png)
+
+### Logs
+![Imagen de comprobación de funcionamiento](./img/006.png)
