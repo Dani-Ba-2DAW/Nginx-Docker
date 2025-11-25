@@ -21,4 +21,14 @@ Comando: docker run -d --name nginx-dani -p 80:80 -v ~/nginx/dani.test/html:/usr
 ![Imagen de comprobación de funcionamiento](./img/005.png)
 
 ### Logs
-![Imagen de comprobación de funcionamiento](./img/006.png)
+![Imagen de logs](./img/006.png)
+
+## Gestión del contenedor
+### Detener el contenedor
+![Imagen de detener el contenedor](./img/007.png)
+
+### Reiniciar el contenedor
+![Imagen de reiniciar el contenedor](./img/008.png)
+
+### Eliminar el contenedor
+![Imagen de eliminar el contenedor](./img/009.png)
